@@ -1,0 +1,18 @@
+use int306;
+select length('Hey there my name is ashmit') from class;
+select substr('halua pudi',3,77)  from class;
+select lower('SARTHAK IS A GOOD BOY')  from class;
+select upper('Subham is a playboy')  from class;
+select initcap('huahuahuahua')  from class;
+select ascii('a') from class;
+select translate('halua is the love of my life, halua is very very tasty, halua is op','halua','poop');
+select ltrim('     h ha hal halu halua') from class;
+select rtrim('                         h ha hal halu halua      ') from class;
+select trim('      h ha hal halu halua                          ') from class;
+select lpad('halua',10,'?') from class;
+select rpad('halua',10,'?') from class;
+select replace('halua','lua','?') from class;
+select concat('halua',' balua') from class;
+select to_char(2000,'2thou') from class;
+select to_number('abc') from class;
+select to_date ('17/10/2009','DD-MM-YYYY') from class;

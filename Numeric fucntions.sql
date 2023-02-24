@@ -1,0 +1,14 @@
+use int306;
+select round(12.28,1) from class;
+select truncate(12.28,1) from class;
+select mod(20,7) from class;
+select abs(12.28,1) from class;
+select power(12,2) from class;
+select sqrt(16) from class;
+select exp(3) from class;
+select greatest(3,4356,87,334,86,12,65) from class;
+select least(3,4356,87,334,86,12,65) from class;
+select floor(15.1) from class;
+select floor(19.9) from class;
+select ceil(19.9) from class;
+select ceil(10.2) from class;

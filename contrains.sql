@@ -1,0 +1,21 @@
+use int306;
+-- create table Customer
+-- ( id int(5) primary key, name varchar(20) not null, age int, address varchar(20));
+-- insert into customer 
+-- values
+-- (1101,'Adam',20,'Jalandhar'),
+-- (1102,'Alex',21,'Phagwara'),
+-- (1103,'Raj',22,'Goa'),
+-- (1104,'Ravi',20,'Delhi');
+-- create table order_
+-- (id int primary key, name_ varchar(100) not null, amount int, c_id int references student(id));
+-- insert into order_
+-- values
+-- (1,'A',20,1101),
+-- (2,'B',21,1102),
+-- (3,'C',22,1103),
+-- (4,'D',20,1104),
+-- (5,'D',23,1105);
+-- (6,'E',24,1106);
+-- update order_ set name='E' where id=5; 
+-- update order_ set name='F' where id=6; 
